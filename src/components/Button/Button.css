@@ -1,0 +1,9 @@
+.view-detail-button {
+    background-color: aquamarine;
+    padding: 1rem 3rem;
+    border-radius: 10px;
+}
+
+.view-detail-button > link {
+    background-color: beige;
+}
